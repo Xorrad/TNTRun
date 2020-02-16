@@ -1,0 +1,11 @@
+main: com.xorrad.tnt.TNTRun
+name: CssTNTRun
+version: 1.0
+author: Xorrad
+commands:
+    start_game:
+        description: start the game.
+    stop_game:
+        description: stop the game.
+    end_game:
+        description: end the game.
